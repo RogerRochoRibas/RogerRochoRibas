@@ -9,7 +9,7 @@
 
 - 📫 To reach me send me an email **rogerrochoribas@gmail.com**
 
-- 📄 Know about my experiences with my [Curriculum](https://drive.google.com/file/d/1g1UehzFemoN34tgsLCw6SGDIfH_PbMis/view?usp=sharing)
+- 📄 Know about my experiences with my [Curriculum](https://drive.google.com/file/d/1mYytYGVZwmWzxMWfjCzrPAwp4tbkmvE3/view?usp=sharing)
 
 - ⚡ Fun fact **If we make a video call you may see my dog walk around.**
 
