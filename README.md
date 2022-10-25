@@ -23,7 +23,7 @@ App based on the old Musicovery [Musicaster](https://rogerrochoribas.github.io/M
 
 <h3 align="left">See my Old Work</h3>
 
-This was my first pet project on 2019 [Espai Visual](https://rogerrochoribas.github.io/Proyecto-Final/ev-4/index.html)
+This was my first pet project in 2019 [Espai Visual](https://rogerrochoribas.github.io/Proyecto-Final/ev-4/index.html)
 
 And one of my first small websites [Accessibilitat i Usabilitat](https://rogerrochoribas.github.io/CertificadoProfesionalidad/Practica-11/index.html)
 
