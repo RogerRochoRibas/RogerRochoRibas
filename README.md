@@ -14,6 +14,7 @@
 - ⚡ Fun fact **If we make a video call you may see my dog walk around.**
 
 <h3 align="left">See my Recent Work</h3>
+
 I am a collaborator on [IT Academy](https://github.com/IT-Academy-BCN/ita-directory)
 
 Small Project [Pokemon API](https://rogerrochoribas.github.io/React-Pokemon-API/)
@@ -21,7 +22,9 @@ Small Project [Pokemon API](https://rogerrochoribas.github.io/React-Pokemon-API/
 App based on the old Musicovery [Musicaster](https://rogerrochoribas.github.io/MusicProject/)
 
 <h3 align="left">See my Old Work</h3>
+
 This was my first pet project on 2019 [Espai Visual](https://rogerrochoribas.github.io/Proyecto-Final/ev-4/index.html)
+
 And one of my first small websites [Accessibilitat i Usabilitat](https://rogerrochoribas.github.io/CertificadoProfesionalidad/Practica-11/index.html)
 
 <h3 align="left">Connect with me:</h3>
