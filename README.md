@@ -15,7 +15,9 @@
 
 <h3 align="left">See my Recent Work</h3>
 I am a collaborator on [IT Academy](https://github.com/IT-Academy-BCN/ita-directory)
+
 Small Project [Pokemon API](https://rogerrochoribas.github.io/React-Pokemon-API/)
+
 App based on the old Musicovery [Musicaster](https://rogerrochoribas.github.io/MusicProject/)
 
 <h3 align="left">See my Old Work</h3>
