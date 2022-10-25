@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available [Here](https://github.com/RogerRochoRibas?tab=repositories)
 
-- 📫 How to reach me **rogerrochoribas@gmail.com**
+- 📫 To reach me send me an email **rogerrochoribas@gmail.com**
 
 - 📄 Know about my experiences with my [Curriculum](https://drive.google.com/file/d/1g1UehzFemoN34tgsLCw6SGDIfH_PbMis/view?usp=sharing)
 
