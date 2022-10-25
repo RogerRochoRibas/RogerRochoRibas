@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **testing with Jest and React Testing Library**
 
-- 👨‍💻 All of my projects are available at [https://github.com/RogerRochoRibas?tab=repositories](https://github.com/RogerRochoRibas?tab=repositories)
+- 👨‍💻 All of my projects are available [Here](https://github.com/RogerRochoRibas?tab=repositories)
 
 - 📫 How to reach me **rogerrochoribas@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1g1UehzFemoN34tgsLCw6SGDIfH_PbMis/view?usp=sharing](https://drive.google.com/file/d/1g1UehzFemoN34tgsLCw6SGDIfH_PbMis/view?usp=sharing)
+- 📄 Know about my experiences with my [Curriculum](https://drive.google.com/file/d/1g1UehzFemoN34tgsLCw6SGDIfH_PbMis/view?usp=sharing)
 
 - ⚡ Fun fact **If we make a video call you may see my dog walk around.**
 
