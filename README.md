@@ -18,14 +18,12 @@
 I am a collaborator on [IT Academy](https://github.com/IT-Academy-BCN/ita-directory)
 
 <h3>POKEAPI Integration</h3>
- [Pokemon API](https://rogerrochoribas.github.io/React-Pokemon-API/)
- [Pokemon API](https://rogerrochoribas.github.io/React-Pokemon-API/)
+ API Integration and Filters: [Pokemon API](https://rogerrochoribas.github.io/React-Pokemon-API/)
 
 ![search-bar](https://user-images.githubusercontent.com/98771907/180623391-453d5e28-5654-4d92-b23f-b6156a873c08.gif)
 
 <h3>Musicovery API Integration</h3>
- [Musicaster](https://rogerrochoribas.github.io/MusicProject/)
- [Musicaster](https://rogerrochoribas.github.io/MusicProject/)
+ API Integration, Filters, Registration and Login with Firebase: [Musicaster](https://rogerrochoribas.github.io/MusicProject/)
 
 ![Demo](https://user-images.githubusercontent.com/98771907/174484065-2673c6cb-5e42-4c30-8558-1c55f296b329.gif)
 
