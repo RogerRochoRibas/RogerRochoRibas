@@ -11,19 +11,21 @@
 
 - 📄 Know about my experiences with my [Curriculum](https://drive.google.com/file/d/1mYytYGVZwmWzxMWfjCzrPAwp4tbkmvE3/view?usp=sharing)
 
-- ⚡ Fun fact **If we make a video call you may see my dog walk around.**
+- ⚡ Fun fact **If we make a video call you may see my dog walk around.** 
 
 <h3 align="left">See my Recent Work</h3>
 
 I am a collaborator on [IT Academy](https://github.com/IT-Academy-BCN/ita-directory)
 
 <h3>POKEAPI Integration</h3>
- API Integration and Filters: [Pokemon API](https://rogerrochoribas.github.io/React-Pokemon-API/)
+
+- API Integration and Filters [Pokemon API](https://rogerrochoribas.github.io/React-Pokemon-API)
 
 ![search-bar](https://user-images.githubusercontent.com/98771907/180623391-453d5e28-5654-4d92-b23f-b6156a873c08.gif)
 
 <h3>Musicovery API Integration</h3>
- API Integration, Filters, Registration and Login with Firebase: [Musicaster](https://rogerrochoribas.github.io/MusicProject/)
+
+- API Integration, Filters, Registration and Login with Firebase: [Musicaster](https://rogerrochoribas.github.io/MusicProject/)
 
 ![Demo](https://user-images.githubusercontent.com/98771907/174484065-2673c6cb-5e42-4c30-8558-1c55f296b329.gif)
 
