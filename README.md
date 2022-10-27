@@ -19,7 +19,7 @@ I am a collaborator on [IT Academy](https://github.com/IT-Academy-BCN/ita-direct
 
 POKEAPI Integration [Pokemon API](https://rogerrochoribas.github.io/React-Pokemon-API/)
 
-![details](https://user-images.githubusercontent.com/98771907/180623523-7517239b-4a7c-4213-9eee-5007664f5254.gif)
+![search-bar](https://user-images.githubusercontent.com/98771907/180623391-453d5e28-5654-4d92-b23f-b6156a873c08.gif)
 
 Musicovery API Integration [Musicaster](https://rogerrochoribas.github.io/MusicProject/)
 
