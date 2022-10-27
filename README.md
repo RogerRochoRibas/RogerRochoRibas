@@ -1,5 +1,5 @@
-<h1 align="center">Hi there 👋, I'm Roger</h1>
-<h3 align="center">A passionate frontend developer from Barcelona</h3>
+<h1 align="center">Hello stranger 👋 I'm Roger</h1>
+<h3 align="center">A frontend developer from Barcelona on its path towards Senior Developerhood</h3>
 
 - 🔭 I’m currently working on [IT Academy Project](https://github.com/IT-Academy-BCN/ita-directory)
 
@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences with my [Curriculum](https://drive.google.com/file/d/1mYytYGVZwmWzxMWfjCzrPAwp4tbkmvE3/view?usp=sharing)
 
-- ⚡ Fun fact **If we make a video call you may see my dog walk around.** 
+- ⚡ Un-Fun fact **The worst a joke is, the more I like it.** 
 
 <h3 align="left">See my Recent Work</h3>
 
@@ -21,13 +21,13 @@ I am a collaborator on [IT Academy](https://github.com/IT-Academy-BCN/ita-direct
 
 - API Integration and Filters [Pokemon API](https://rogerrochoribas.github.io/React-Pokemon-API)
 
-![search-bar](https://user-images.githubusercontent.com/98771907/180623391-453d5e28-5654-4d92-b23f-b6156a873c08.gif)
+https://user-images.githubusercontent.com/98771907/198391522-51d326e0-6d1c-4a43-97e7-148747802160.mp4
 
 <h3>Musicovery API Integration</h3>
 
 - API Integration, Filters, Registration and Login with Firebase: [Musicaster](https://rogerrochoribas.github.io/MusicProject/)
 
-![Demo](https://user-images.githubusercontent.com/98771907/174484065-2673c6cb-5e42-4c30-8558-1c55f296b329.gif)
+https://user-images.githubusercontent.com/98771907/198393894-eea72ee1-46a4-41ed-a3ff-686d6341d2e4.mp4
 
 <h3 align="left">See my Old Work</h3>
 
