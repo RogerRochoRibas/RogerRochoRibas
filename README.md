@@ -17,9 +17,13 @@
 
 I am a collaborator on [IT Academy](https://github.com/IT-Academy-BCN/ita-directory)
 
-Small Project [Pokemon API](https://rogerrochoribas.github.io/React-Pokemon-API/)
+POKEAPI Integration [Pokemon API](https://rogerrochoribas.github.io/React-Pokemon-API/)
 
-App based on the old Musicovery [Musicaster](https://rogerrochoribas.github.io/MusicProject/)
+![details](https://user-images.githubusercontent.com/98771907/180623523-7517239b-4a7c-4213-9eee-5007664f5254.gif)
+
+Musicovery API Integration [Musicaster](https://rogerrochoribas.github.io/MusicProject/)
+
+![Demo](https://user-images.githubusercontent.com/98771907/174484065-2673c6cb-5e42-4c30-8558-1c55f296b329.gif)
 
 <h3 align="left">See my Old Work</h3>
 
