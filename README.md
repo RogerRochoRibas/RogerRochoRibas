@@ -19,7 +19,7 @@ I am a collaborator on [IT Academy](https://github.com/IT-Academy-BCN/ita-direct
 
 <h3>POKEAPI Integration</h3>
 
-- API Integration and Filters [Pokemon API](https://rogerrochoribas.github.io/React-Pokemon-API)
+- API Integration and Filters
 
 https://user-images.githubusercontent.com/98771907/198391522-51d326e0-6d1c-4a43-97e7-148747802160.mp4
 
